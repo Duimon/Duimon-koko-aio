@@ -40,7 +40,7 @@ ___
 
 ## Shader
 
-The koko-aio are bundled with RetroArch, although you may have to update your slang shaders if you are using an older version RetroArch.
+The koko-aio shaders are bundled with RetroArch, although you may have to update your slang shaders if you are using an older version RetroArch.
 
 ## Installation using the release zip
 
