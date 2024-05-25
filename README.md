@@ -18,7 +18,7 @@ The initial release includes 93 CRT systems, with handhelds forthcoming.
 
 ___
 
-For those of you familiar with my Mega Bezel project, things will look very familiar. There are three different bezels used initially.
+For those of you familiar with my Mega Bezel project, things will look very familiar. There are three different bezels included initially.
 
 **[Bezel]**
 ![](images/Amiga_A500_Plus_Bezel.jpg)
