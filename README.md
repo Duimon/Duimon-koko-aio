@@ -26,7 +26,7 @@ For those of you familiar with my Mega Bezel project, things will look very fami
 **[Bezel_002]**
 ![](images/Amiga_A500_Plus_Bezel_002.jpg)
 
-**[Beezl_003]**
+**[Bezel_003]**
 ![](images/Amiga_A500_Plus_Bezel_003.jpg)
 
 And a few presets that use a frameless bezel.
