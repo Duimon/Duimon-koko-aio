@@ -1,0 +1,92 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// PRESET START
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: CONNECTOR | Interface to KoKo-aio Presets folders.
+// Edit the target file in the following reference to globally define the base preset.
+// ----------------------------------------------------------------------------------------------------------------
+
+#reference "../../zzz_global_params/Base_Shader/CRT3.slangp"
+
+// SHADER :: CONNECTOR :: LOCAL OVERRIDES | Interface to specific base presets.
+// Comment out the top reference line and uncomment the following reference line to locally define the base preset.
+
+//#reference "../../zzz_global_params/Local_Shader/01.slangp"
+
+// "01" matches the default "Monitor-Balanced.slangp".
+// Replace the "01" with any from the following list.
+// 01. Monitor-Balanced                                     14. Monitor-Screen_Hmask-Aperturegrille
+// 02. Monitor-for_1440pMin_HiNits                          15. Monitor-Screen_Hmask-Aperturegrille-Overmask
+// 03. Monitor-for_HigherNits                               16. Monitor-Screen_Hmask-Core_SlotMask
+// 04. Monitor-for_HiNits                                   17. Monitor-Screen_Hmask-Core_SlotMask-Overmask
+// 05. Monitor-FXAA_sharp-aperturegrille                    18. Monitor-Screen_Hmask-Screen_SlotMask
+// 06. Monitor-FXAA_sharp-Core_SlotMask                     19. Monitor-Screen_Hmask-Screen_SlotMask_Taller
+// 07. Monitor-FXAA_sharp-Screen_SlotMask                   20. Monitor-Screen_Hmask-Screen_SlotMask_Taller_Brighter
+// 08. Monitor-New_aperturegrille_gm                        21. Monitor-Screen_Hmask-ShadowMask
+// 09. Monitor-New_slotmask_gm                              22. Monitor-VGA-DoubleScan
+// 10. Monitor-Screen_Hmask_Overlapped-oldpainless          23. Monitor-VGA-DoubleScan-ShadowMask
+// 11. Monitor-Screen_Hmask_Wide-Aperturegrille             24. Tv-NTSC_Generic-FXAA_sharp-Selective
+// 12. Monitor-Screen_Hmask_Wide-Core_SlotMask              25. Tv-NTSC_Megadrive-FXAA_sharp-Selective
+// 13. Monitor-Screen_Hmask_WideR-Screen_SlotMask
+
+// BASE
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_003.params"
+
+// IMAGES
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/images/VTech_Laser_310/day.params"
+
+// Bezel Color parameters
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/color/VTech_Laser_310/day.params"
+
+
+// GRAPHICS OVERRIDES | Overrides for Bezel, ambilight, etc. that
+// are not related to the screen shader. (Two useful examples are provided.)
+// ----------------------------------------------------------------------------------------------------------------
+
+// LOCAL GRAPHICS :: OVERRIDES
+// Uncomment either (Or both) reference lines below. (Delete the leading forward slashes //.)
+// Unless there are no conflicts, the user will normally uncomment a single line.
+// Custom params files can be added to the folder and reference lines added here.
+
+//#reference "../../../res/overrides/straight.params"
+//#reference "../../../res/overrides/ambient_lights.params"
+
+// GLOBAL GRAPHICS :: OVERRIDES
+// The user can edit the uncommented target params file to globally change the presets.
+// Two examples are included in the params file and commented out. (The [Bezel_003] presets
+// are using a unique global override to scale the bezel and screen. If desired, commenting
+// out this line in the "bezel_003.params" file will yeild a small increase in screen size.)
+
+//#reference "../../zzz_global_params/Graphics/bezel.params"
+//#reference "../../zzz_global_params/Graphics/bezel_nf.params"
+//#reference "../../zzz_global_params/Graphics/bezel_002.params"
+#reference "../../zzz_global_params/Graphics/bezel_003.params"
+
+
+// SHADER OVERRIDES | Place *.params references to koko derivatives in this section.. 
+// (One simple example is provided.)
+// ----------------------------------------------------------------------------------------------------------------
+
+// LOCAL SHADER :: OVERRIDES
+
+//#reference "../../res/overrides_shader/tweaks.params"
+
+// GLOBAL SHADER :: OVERRIDES
+// The user can edit the target params file to globally change the presets.
+// To use community params that require another base preset, change the global base reference to match.
+// Examples are included in the params file and commented out.
+// Separate files let users change global settings on each of the sets.
+
+//#reference "../../zzz_global_params/Shader/bezel.params"
+//#reference "../../zzz_global_params/Shader/bezel_nf.params"
+//#reference "../../zzz_global_params/Shader/bezel_002.params"
+#reference "../../zzz_global_params/Shader/bezel_003.params"
+
+// PRESET END
+// ----------------------------------------------------------------------------------------------------------------

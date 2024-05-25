@@ -1,0 +1,13 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// LOCAL OVERRIDE
+// LOCAL GRAPHICS OVERRIDE
+// Parameters used locally, within a preset, to change the parameters of elements outside the game screen.
+// ----------------------------------------------------------------------------------------------------------------
+
+// OVERRIDE (Removes the curvature from both the bezel, and the screen.)
+// ----------------------------------------------------------------------------------------------------------------
+DO_CURVATURE = "0.000000"
+BEZEL_USE_STRAIGHT = "1.000000"

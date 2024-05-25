@@ -1,0 +1,14 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BEZEL COLOR PARAMETERS
+// Parameters specific to the bezel color
+// ----------------------------------------------------------------------------------------------------------------
+
+// RGB
+// ----------------------------------------------------------------------------------------------------------------
+BEZEL_R = "-0.2499609375"
+BEZEL_G = "-0.2746484375"
+BEZEL_B = "-0.2962500000"
+BEZEL_CON = "1.300000"
