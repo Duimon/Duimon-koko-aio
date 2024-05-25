@@ -8,7 +8,7 @@ This project is an attempt to provide end users with high quality art and ready 
 
 My updates and feedback page is on Libretro:
 
-https://forums.libretro.com/t/duimon-hsm-reflection-shader-graphics-feedback-and-updates/28146
+https://forums.libretro.com/t/duimon-koko-aio-presets/45136
 
 The shader discussion and updates page is at:
 
