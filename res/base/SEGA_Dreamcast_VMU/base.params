@@ -1,0 +1,36 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE PARAMETERS
+// Parameters shared across sets
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE
+// ----------------------------------------------------------------------------------------------------------------
+
+DO_SPOT = "0.000000"
+
+MIN_LINES_INTERLACED = "1024.000000"
+
+
+DO_CURVATURE = "1.000000"
+GEOM_WARP_X = "0.000000"
+GEOM_WARP_Y = "0.000000"
+GEOM_CORNER_SIZE = "0.027000"
+
+COLOR_MONO_HUE1 = "0.530000"
+COLOR_MONO_HUE2 = "0.530000"
+COLOR_MONO_HUE_BIAS = "0.000000"
+SATURATION = "0.250001"
+DOT_M_G_STR = "0.180000"
+DOT_M_G_BRT = "0.430000"
+DOT_M_SHADOW_STR = "0.490000"
+DOT_M_SHADOW_OFF = "0.750000"
+
+DO_BG_IMAGE = "1.000000"
+DO_GLOBAL_SHZO = "1.000000"
+GLOBAL_OFFY = "0.006000"
+GLOBAL_ZOOM = "0.337983"
+ASPECT_X = "87.000000"
+ASPECT_Y = "73.000000"

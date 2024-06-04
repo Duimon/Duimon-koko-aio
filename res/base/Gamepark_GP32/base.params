@@ -1,0 +1,26 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE PARAMETERS
+// Parameters shared across sets
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE
+// ----------------------------------------------------------------------------------------------------------------
+
+DO_SPOT = "0.000000"
+
+MIN_LINES_INTERLACED = "1024.000000"
+
+DO_BG_IMAGE = "1.000000"
+BG_IMAGE_WRAP_MODE = "1.000000"
+DO_GLOBAL_SHZO = "1.000000"
+DO_AMBILIGHT = "0.000000"
+V_SIZE = "1.279999"
+V_POWER = "0.890000"
+GLOBAL_OFFX = "0.007000"
+GLOBAL_OFFY = "0.000000"
+GLOBAL_ZOOM = "0.560003"
+ASPECT_X = "3.000000"
+ASPECT_Y = "4.000000"

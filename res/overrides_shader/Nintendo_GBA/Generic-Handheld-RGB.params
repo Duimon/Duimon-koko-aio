@@ -1,0 +1,14 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// LOCAL SHADER OVERRIDE
+// Parameters used locally, within a preset,to adjust the effects on the game screen.
+// ----------------------------------------------------------------------------------------------------------------
+
+// OVERRIDE (For using the "Generic-Handheld-RGB" base preset with the GBA preset.)
+// ----------------------------------------------------------------------------------------------------------------
+V_SIZE = "0.700000"
+V_POWER = "0.950000"
+GLOBAL_OFFY = "-0.175499"
+GLOBAL_ZOOM = "1.590994"

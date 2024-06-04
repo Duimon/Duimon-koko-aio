@@ -1,0 +1,40 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// PRESET START
+// ----------------------------------------------------------------------------------------------------------------
+
+// SHADER :: CONNECTOR | Interface to KoKo-aio Presets folders.
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../../shaders_slang/bezel/koko-aio/Presets_Handhelds-ng/GameboyAdvance-Overlay.slangp"
+
+// SHADER :: CONNECTOR :: LOCAL OVERRIDES | Interface to specific base presets.
+// Comment out the top reference line and uncomment the following reference line, (if any are available.)
+// to locally define an alternate preset. If there is a line below in the "// BASE" section, with a matching
+// name, it will also have to be uncommented.
+
+//#reference "../../../shaders_slang/bezel/koko-aio/Presets_Handhelds-ng/Generic-Handheld-RGB.slangp"
+
+
+// BASE
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/Nintendo_NDS/gap_83.params"
+//#reference "../../res/overrides_shader/Nintendo_NDS/Generic-Handheld-RGB.params"
+
+// IMAGES
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/images/Nintendo_NDS/gap_83_day.params"
+
+
+// LOCAL GRAPHICS :: OVERRIDES
+// Uncomment the reference line below to enable amilights.
+
+//#reference "../../res/overrides/ambient_lights.params"
+
+// FLIPPED GRAPHICS :: OVERRIDE
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/_flip/$VID-DRV$_$CORE$.params"
+
+// PRESET END
+// ----------------------------------------------------------------------------------------------------------------

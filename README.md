@@ -8,13 +8,17 @@ This project is an attempt to provide end users with high quality art and ready 
 
 My updates and feedback page is on Libretro:
 
-https://forums.libretro.com/t/duimon-koko-aio-presets/45136
+https://forums.libretro.com/t/duimon-hsm-reflection-shader-graphics-feedback-and-updates/28146
 
 The shader discussion and updates page is at:
 
 https://forums.libretro.com/t/koko-aio-shader-discussions-and-updates/38455/1430
 
-The initial release includes 93 CRT systems, with handhelds forthcoming.
+The initial release included 93 CRT systems.
+
+The recent update adds in the handhelds, most "Monitor" presets, and the standalone PVM20/TM20 sets. This brings the total system count to ~140 and the total number of presets to 852.
+
+The recent update also adds global automatic handling of the frame buffer flipping issue. (With the gracious help of HyperSpaceMadness.)
 
 ___
 
@@ -29,7 +33,7 @@ For those of you familiar with my Mega Bezel project, things will look very fami
 **[Bezel_003]**
 ![](images/Amiga_A500_Plus_Bezel_003.jpg)
 
-And a few presets that use a frameless bezel.
+And a few presets that use a frame-less bezel.
 
 **[TV7_Alt]**
 ![](images/TV7_Alt.jpg)

@@ -1,0 +1,16 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE PARAMETERS
+// Parameters shared across sets
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE
+// ----------------------------------------------------------------------------------------------------------------
+DO_SPOT = "0.000000"
+
+BG_IMAGE_OFFY = "-0.099500"
+BG_IMAGE_ZOOM = "1.199503"
+GLOBAL_OFFY = "0.010500"
+GLOBAL_ZOOM = "0.761006"

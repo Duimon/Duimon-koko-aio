@@ -1,0 +1,39 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE PARAMETERS
+// Parameters shared across sets
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE
+// ----------------------------------------------------------------------------------------------------------------
+
+DO_SPOT = "0.000000"
+
+MIN_LINES_INTERLACED = "1024.000000"
+
+DO_PIXELGRID_W = "0.000000"
+PIXELGRID_Y_MASK = "0.000000"
+
+BEZEL_INNER_ZOOM = "-0.184000"
+BEZEL_FRAME_ZOOM = "0.024000"
+
+DO_BG_IMAGE = "1.000000"
+BG_IMAGE_WRAP_MODE = "1.000000"
+
+COLOR_MONO_COLORIZE = "1.000000"
+COLOR_MONO_HUE1 = "0.140000"
+COLOR_MONO_HUE2 = "0.140000"
+COLOR_MONO_HUE_BIAS = "0.130000"
+SATURATION = "1.700000"
+
+DO_GLOBAL_SHZO = "1.000000"
+GLOBAL_OFFX = "-0.092500"
+GLOBAL_OFFY = "-0.096000"
+GLOBAL_ZOOM = "0.672489"
+
+DO_AMBILIGHT = "0.000000"
+
+monitor_body_curved = "../../../Graphics/_bezel/bezel_curved_round_nf.png"
+monitor_body_straight = "../../../Graphics/_bezel/bezel_straight_round_nf.png"

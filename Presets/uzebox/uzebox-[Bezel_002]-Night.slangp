@@ -54,14 +54,15 @@
 // Unless there are no conflicts, the user will normally uncomment a single line.
 // Custom params files can be added to the folder and reference lines added here.
 
-//#reference "../../../res/overrides/straight.params"
-//#reference "../../../res/overrides/ambient_lights.params"
+//#reference "../../res/overrides/straight.params"
+//#reference "../../res/overrides/ambient_lights.params"
 
 // GLOBAL GRAPHICS :: OVERRIDES
 // The user can edit the uncommented target params file to globally change the presets.
 // Two examples are included in the params file and commented out. (The [Bezel_003] presets
 // are using a unique global override to scale the bezel and screen. If desired, commenting
 // out this line in the "bezel_003.params" file will yeild a small increase in screen size.)
+// If all the lines below are commented out, only local overrides should be used.
 
 //#reference "../../zzz_global_params/Graphics/bezel.params"
 //#reference "../../zzz_global_params/Graphics/bezel_nf.params"
@@ -82,11 +83,16 @@
 // To use community params that require another base preset, change the global base reference to match.
 // Examples are included in the params file and commented out.
 // Separate files let users change global settings on each of the sets.
+// If all the lines below are commented out, only local overrides should be used.
 
 //#reference "../../zzz_global_params/Shader/bezel.params"
 //#reference "../../zzz_global_params/Shader/bezel_nf.params"
 #reference "../../zzz_global_params/Shader/bezel_002.params"
 //#reference "../../zzz_global_params/Shader/bezel_003.params"
+
+// FLIPPED GRAPHICS :: OVERRIDE
+// ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/_flip2/$VID-DRV$_$CORE$.params"
 
 // PRESET END
 // ----------------------------------------------------------------------------------------------------------------

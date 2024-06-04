@@ -1,0 +1,29 @@
+// DERIVED FROM DUIMON MEGA BEZEL GRAPHICS AND PRESETS | https://duimon.github.io/Gallery-Guides/ | duimonmb@gmail.com
+// SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE PARAMETERS
+// Parameters shared across sets
+// ----------------------------------------------------------------------------------------------------------------
+
+// BASE
+// ----------------------------------------------------------------------------------------------------------------
+
+DO_SPOT = "0.000000"
+
+MIN_LINES_INTERLACED = "1024.000000"
+
+BEZEL_INNER_ZOOM = "-0.206000"
+BEZEL_FRAME_ZOOM = "0.024000"
+
+DO_GLOBAL_SHZO = "1.000000"
+GLOBAL_OFFY = "-0.077000"
+GLOBAL_ZOOM = "0.772993"
+
+DO_BG_IMAGE = "1.000000"
+BG_IMAGE_WRAP_MODE = "1.000000"
+
+DO_AMBILIGHT = "0.000000"
+
+monitor_body_curved = "../../../Graphics/_bezel/TM20_bezel.png"
+monitor_body_straight = "../../../Graphics/_bezel/TM20_bezel.png"

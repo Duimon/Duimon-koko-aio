@@ -8,8 +8,22 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
-BEZEL_FRAME_ZOOM = "0.046000"
-bg_under = "Nintendo_Wii.jpg"
 
-monitor_body_curved = "../../Graphics/_bezel/bezel_curved_nf.png"
-monitor_body_straight = "../../Graphics/_bezel/bezel_straight_nf.png"
+DO_SPOT = "0.000000"
+
+MIN_LINES_INTERLACED = "1024.000000"
+
+SATURATION = "0.010000"
+
+DO_CURVATURE = "1.000000"
+GEOM_WARP_X = "0.000000"
+GEOM_WARP_Y = "0.000000"
+GEOM_CORNER_SIZE = "0.010000"
+
+DO_BG_IMAGE = "1.000000"
+DO_GLOBAL_SHZO = "1.000000"
+GLOBAL_OFFX = "0.000000"
+GLOBAL_OFFY = "-0.074500"
+GLOBAL_ZOOM = "0.634987"
+ASPECT_X = "144.000000"
+ASPECT_Y = "137.000000"
