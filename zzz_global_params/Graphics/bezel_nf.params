@@ -2,10 +2,22 @@
 // SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
 // ----------------------------------------------------------------------------------------------------------------
 
-// GLOBAL OVERRIDES :: BEZEL
-// Custom Parameters specific to the [Bezel] presets.
+// GLOBAL OVERRIDES :: BEZEL NO FRAME
+// Custom Parameters specific to the no frame presets.
 // ----------------------------------------------------------------------------------------------------------------
+
+// Unlike most combinations of overrides, the included samples can all be used simultaneously.
+// I have provided another section for user contributed override to keep them sorted.
+// I feel the ambient lights overrides below will produce a rather strage effect 
+// with no-frame presets, but you might feel differently. :-)
 
 
 //#reference "/params/straight.params"
 //#reference "/params/ambient_lights.params"
+//#reference "/params/ambient_lights_nightify.params"
+
+
+// GLOBAL OVERRIDES :: USER CONTRIBUTED
+// ----------------------------------------------------------------------------------------------------------------
+
+

@@ -14,10 +14,10 @@
 // SHADER :: CONNECTOR :: LOCAL OVERRIDES | Interface to specific base presets.
 // Comment out the top reference line and uncomment the following reference line to locally define the base preset.
 
-//#reference "../../zzz_global_params/Local_Shader/01.slangp"
+//#reference "../../zzz_global_params/Local_Shader/18.slangp"
 
-// "01" matches the default "Monitor-Balanced.slangp".
-// Replace the "01" with any from the following list.
+// "18" matches the default "Monitor-Screen_Hmask-Screen_SlotMask.slangp".
+// Replace the "18" with any from the following list.
 // 01. Monitor-Balanced                                     14. Monitor-Screen_Hmask-Aperturegrille
 // 02. Monitor-for_1440pMin_HiNits                          15. Monitor-Screen_Hmask-Aperturegrille-Overmask
 // 03. Monitor-for_HigherNits                               16. Monitor-Screen_Hmask-Core_SlotMask
@@ -38,11 +38,11 @@
 
 // IMAGES
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../res/images/Acorn_Archimedes/night.params"
+#reference "../../res/images/Acorn_Archimedes/day.params"
 
 // Bezel Color parameters
 // ----------------------------------------------------------------------------------------------------------------
-#reference "../../res/color/Acorn_Archimedes/night.params"
+#reference "../../res/color/Acorn_Archimedes/day.params"
 
 
 // GRAPHICS OVERRIDES | Overrides for Bezel, ambilight, etc. that

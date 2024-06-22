@@ -7,7 +7,7 @@
 // ----------------------------------------------------------------------------------------------------------------
 
 
-#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Balanced.slangp"
+//#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Balanced.slangp"
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-for_1440pMin_HiNits.slangp"
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-for_HigherNits.slangp"
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-for_HiNits.slangp"
@@ -24,7 +24,7 @@
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Screen_Hmask-Aperturegrille-Overmask.slangp"
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Screen_Hmask-Core_SlotMask.slangp"
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Screen_Hmask-Core_SlotMask-Overmask.slangp"
-//#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Screen_Hmask-Screen_SlotMask.slangp"
+#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Screen_Hmask-Screen_SlotMask.slangp"
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Screen_Hmask-Screen_SlotMask_Taller.slangp"
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Screen_Hmask-Screen_SlotMask_Taller_Brighter.slangp"
 //#reference "../../../shaders_slang/bezel/koko-aio/Presets-ng/Monitor-Screen_Hmask-ShadowMask.slangp"

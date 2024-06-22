@@ -6,6 +6,16 @@
 // Custom Parameters specific to the [Bezel_002] presets.
 // ----------------------------------------------------------------------------------------------------------------
 
+// Unlike most combinations of overrides, the included samples can all be used simultaneously.
+// I have provided another section for user contributed override to keep them sorted.
+
 
 //#reference "/params/straight.params"
 //#reference "/params/ambient_lights.params"
+//#reference "/params/ambient_lights_nightify.params"
+
+
+// GLOBAL OVERRIDES :: USER CONTRIBUTED
+// ----------------------------------------------------------------------------------------------------------------
+
+

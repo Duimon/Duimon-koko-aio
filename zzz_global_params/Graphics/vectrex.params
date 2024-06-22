@@ -2,9 +2,14 @@
 // SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
 // ----------------------------------------------------------------------------------------------------------------
 
-// GLOBAL OVERRIDES :: BEZEL
-// Custom Parameters specific to the [Bezel] presets.
+// GLOBAL OVERRIDES :: VECTREX
+// Custom Parameters specific to the Vectrex presets.
 // ----------------------------------------------------------------------------------------------------------------
 
 
+// I feel the ambient lights overrides below will produce a rather strage effect 
+// with these presets, but you might feel differently. :-) Use only one at a time.
+
+
 //#reference "/params/ambient_lights.params"
+//#reference "/params/ambient_lights_nightify.params"

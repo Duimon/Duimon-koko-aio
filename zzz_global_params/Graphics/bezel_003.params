@@ -2,11 +2,27 @@
 // SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
 // ----------------------------------------------------------------------------------------------------------------
 
-// GLOBAL OVERRIDES :: BEZEL 2
-// Custom Parameters specific to the [Bezel_002] presets.
+// GLOBAL OVERRIDES :: BEZEL 3
+// Custom Parameters specific to the [Bezel_003] presets.
 // ----------------------------------------------------------------------------------------------------------------
+
+// Unlike most combinations of overrides, the included samples can all be used simultaneously.
+// I have provided another section for user contributed override to keep them sorted.
 
 
 //#reference "/params/straight.params"
 //#reference "/params/ambient_lights.params"
-#reference "/params/b3scale.params
+//#reference "/params/ambient_lights_nightify.params"
+
+
+// GLOBAL OVERRIDES :: USER CONTRIBUTED
+// ----------------------------------------------------------------------------------------------------------------
+
+
+
+// GLOBAL OVERRIDES :: BEZEL 3
+// ----------------------------------------------------------------------------------------------------------------
+
+// This is my [bezel_003] default scaling override. If desired, commenting out the line below 
+// will yeild a small increase in screen size.
+#reference "/params/b3scale.params"

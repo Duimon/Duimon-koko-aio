@@ -9,3 +9,4 @@
 
 //#reference "/params/straight.params"
 //#reference "/params/ambient_lights.params"
+//#reference "/params/ambient_lights_nightify.params"
