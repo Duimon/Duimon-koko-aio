@@ -19,6 +19,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/VTech_V.Smile/base.params"
 //#reference "../../res/overrides_shader/VTech_V.Smile/Generic-Handheld-RGB.params"
 

@@ -14,26 +14,31 @@
 // SHADER :: CONNECTOR :: LOCAL OVERRIDES | Interface to specific base presets.
 // Comment out the top reference line and uncomment the following reference line to locally define the base preset.
 
-//#reference "../../zzz_global_params/Local_Shader/18.slangp"
+//#reference "../../zzz_global_params/Local_Shader/15.slangp"
 
-// "18" matches the default "Monitor-Screen_Hmask-Screen_SlotMask.slangp".
-// Replace the "18" with any from the following list.
-// 01. Monitor-Balanced                                     14. Monitor-Screen_Hmask-Aperturegrille
-// 02. Monitor-for_1440pMin_HiNits                          15. Monitor-Screen_Hmask-Aperturegrille-Overmask
-// 03. Monitor-for_HigherNits                               16. Monitor-Screen_Hmask-Core_SlotMask
-// 04. Monitor-for_HiNits                                   17. Monitor-Screen_Hmask-Core_SlotMask-Overmask
-// 05. Monitor-FXAA_sharp-aperturegrille                    18. Monitor-Screen_Hmask-Screen_SlotMask
-// 06. Monitor-FXAA_sharp-Core_SlotMask                     19. Monitor-Screen_Hmask-Screen_SlotMask_Taller
-// 07. Monitor-FXAA_sharp-Screen_SlotMask                   20. Monitor-Screen_Hmask-Screen_SlotMask_Taller_Brighter
-// 08. Monitor-New_aperturegrille_gm                        21. Monitor-Screen_Hmask-ShadowMask
-// 09. Monitor-New_slotmask_gm                              22. Monitor-VGA-DoubleScan
-// 10. Monitor-Screen_Hmask_Overlapped-oldpainless          23. Monitor-VGA-DoubleScan-ShadowMask
-// 11. Monitor-Screen_Hmask_Wide-Aperturegrille             24. Tv-NTSC_Generic-FXAA_sharp-Selective
-// 12. Monitor-Screen_Hmask_Wide-Core_SlotMask              25. Tv-NTSC_Megadrive-FXAA_sharp-Selective
-// 13. Monitor-Screen_Hmask_WideR-Screen_SlotMask
+// "15" matches the default "Monitor-Screen_Hmask-Screen_SlotMask.slangp".
+// Replace the "15" with any from the following list.
+
+// 01. User_Defined                                        12. Monitor-Screen_Hmask-Aperturegrille-Overmask
+// 02. Monitor-Balanced                                   13. Monitor-Screen_Hmask-Core_SlotMask
+// 03. Monitor-for_1440pMin_HiNits                        14. Monitor-Screen_Hmask-Core_SlotMask-Overmask
+// 04. Monitor-for_HigherNits                             15. Monitor-Screen_Hmask-Screen_SlotMask
+// 05. Monitor-FXAA_sharp-aperturegrille                  16. Monitor-Screen_Hmask-Screen_SlotMask_Taller
+// 06. Monitor-FXAA_sharp-Core_SlotMask                   17. Monitor-Screen_Hmask-Screen_SlotMask_Taller_Brighter
+// 07. Monitor-FXAA_sharp-Screen_SlotMask                 18. Monitor-Screen_Hmask-Screen_SlotMask_Taller_MaxMask
+// 08. Monitor-New_aperturegrille_gm                      19. Monitor-Screen_Hmask-Screen_SlotMask-Chameleon
+// 08. Monitor-New_slotmask_gm                            20. Monitor-New_slotmask_rgb
+// 10. Monitor-Screen_Hmask_Overlapped-oldpainless        21. Monitor-Screen_Hmask-ShadowMask
+// 11. Monitor-Screen_Hmask-Aperturegrille
+
+// "01" references the file at "Duimon-koko-aio/zzz_global_params/Local_Shader/01.slangp".
+// This file can be edited with the path to a base preset that may not be listed here.
+// In addition, you can create your own file (Using the "01.slangp" as a templete.)
+// and name it with any number above 21.
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/Atari_ST/monitor2.params"
 
 // IMAGES

@@ -19,6 +19,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/WASM-4/base.params"
 //#reference "../../res/overrides_shader/WASM-4/Generic-Handheld-RGB.params"
 

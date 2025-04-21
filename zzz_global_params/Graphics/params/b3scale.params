@@ -2,5 +2,4 @@
 // SOME RIGHTS RESERVED - RELEASED UNDER CC BY NC ND LICENSE https://creativecommons.org/licenses/by-nc-nd/4.0/deed
 // ----------------------------------------------------------------------------------------------------------------
 
-BEZEL_INNER_ZOOM = "-0.266000"
-BEZEL_FRAME_ZOOM = "-0.000000"
+GLOBAL_ZOOM = "0.808500"

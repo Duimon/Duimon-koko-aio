@@ -18,6 +18,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/Atari_Lynx/vert.params"
 //#reference "../../res/overrides_shader/Atari_Lynx/Generic-Handheld-RGB.params"
 

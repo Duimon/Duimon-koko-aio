@@ -19,6 +19,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/Nintendo_GBA/base.params"
 //#reference "../../res/overrides_shader/Nintendo_GBA/Generic-Handheld-RGB.params"
 

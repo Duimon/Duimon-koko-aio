@@ -19,6 +19,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/TIC-80/base.params"
 //#reference "../../res/overrides_shader/TIC-80/Generic-Handheld-RGB.params"
 

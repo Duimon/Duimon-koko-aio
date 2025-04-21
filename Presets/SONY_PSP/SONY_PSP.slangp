@@ -19,6 +19,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/SONY_PSP/base.params"
 //#reference "../../res/overrides_shader/SONY_PSP/Generic-Handheld-RGB.params"
 

@@ -18,6 +18,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/Nintendo_Pokemon_Mini/base.params"
 
 // IMAGES

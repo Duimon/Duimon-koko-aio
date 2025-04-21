@@ -18,6 +18,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/Tiger_game_com/base.params"
 
 // IMAGES

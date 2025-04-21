@@ -17,6 +17,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/SEGA_Dreamcast_VMU/base.params"
 
 // IMAGES

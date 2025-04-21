@@ -17,6 +17,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/CHIP-8/base.params"
 
 // IMAGES

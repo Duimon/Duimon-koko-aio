@@ -19,6 +19,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/Pocket_Dream_Console/base.params"
 //#reference "../../res/overrides_shader/Pocket_Dream_Console/Generic-Handheld-RGB.params"
 

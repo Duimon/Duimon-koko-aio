@@ -13,8 +13,8 @@ DO_SPOT = "0.000000"
 
 MIN_LINES_INTERLACED = "1024.000000"
 
-BEZEL_INNER_ZOOM = "-0.184000"
-BEZEL_FRAME_ZOOM = "0.024000"
+BEZEL_INNER_ZOOM = "0.000000"
+BEZEL_FRAME_ZOOM = "0.173000"
 
 DO_BG_IMAGE = "1.000000"
 BG_IMAGE_WRAP_MODE = "1.000000"
@@ -23,7 +23,7 @@ DO_AMBILIGHT = "0.000000"
 
 DO_GLOBAL_SHZO = "1.000000"
 GLOBAL_OFFY = "-0.067500"
-GLOBAL_ZOOM = "0.832498"
+GLOBAL_ZOOM = "0.705500"
 
 monitor_body_curved = "../../../Graphics/_bezel/bezel_curved_round_nf.png"
 monitor_body_straight = "../../../Graphics/_bezel/bezel_straight_round_nf.png"

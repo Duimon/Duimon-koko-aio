@@ -19,6 +19,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/Gamepark_GP32/base.params"
 //#reference "../../res/overrides_shader/Gamepark_GP32/Generic-Handheld-RGB.params"
 

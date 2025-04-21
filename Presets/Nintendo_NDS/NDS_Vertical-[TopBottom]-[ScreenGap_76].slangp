@@ -19,6 +19,7 @@
 
 // BASE
 // ----------------------------------------------------------------------------------------------------------------
+#reference "../../res/base/bezel_contrast.params"
 #reference "../../res/base/Nintendo_NDS/gap_76.params"
 //#reference "../../res/overrides_shader/Nintendo_NDS/Generic-Handheld-RGB.params"
 

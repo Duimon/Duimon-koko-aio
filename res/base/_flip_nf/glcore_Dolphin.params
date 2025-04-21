@@ -1,4 +1,0 @@
-BG_IMAGE_ROTATION = "-8.000000"
-
-monitor_body_curved = "../../../Graphics/_bezel/bezel_curved_nf.png"
-monitor_body_straight = "../../../Graphics/_bezel/bezel_straight_nf.png"
